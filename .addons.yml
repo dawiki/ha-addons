@@ -1,0 +1,7 @@
+
+channel: stable
+addons:
+  powerdns:
+    repository: dawiki/addon-powerdns
+    target: powerdns
+    image: 
